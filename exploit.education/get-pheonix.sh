@@ -1,0 +1,4 @@
+#!/bin/bash
+
+wget https://github.com/ExploitEducation/Phoenix/releases/download/v1.0.0-alpha-3/exploit-education-phoenix-amd64-v1.0.0-alpha-3.tar.xz
+tar -xvf exploit-education-phoenix-amd64-v1.0.0-alpha-3.tar.xz

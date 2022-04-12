@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+173fd4375d97da7ba5c513a60b6603f604307314 refs/heads/cleanup
+8db48c81e0ea5957c74c7091997334925546f2b5 refs/heads/driver-bundle
+dfb7ad1e00f3f868b54ca4511b2b720f26758b83 refs/heads/floppy
+544949c05063506ddc26d0a2ee4a7a8c9e4f1418 refs/heads/master
+438af284dc87023b6ccd7b8def5c2d303951c701 refs/heads/readme_updates
+8495eac81bfcd4ee88be17a16b45922a10202de8 refs/heads/switch2grub2
+8fbfe431d51fbdad1d48075bb0c80605ce982bf8 refs/heads/usb
